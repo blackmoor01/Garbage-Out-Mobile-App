@@ -1,0 +1,38 @@
+# Python
+*.py[cod]
+__pycache__/
+
+# Virtual Environment
+env/
+venv/
+
+# Django
+db.sqlite3
+*.pot
+*.pyc
+*.log
+local_settings.py
+
+# Static and Media
+staticfiles/
+media/
+
+# Environment Variables
+.env
+
+# IDE and Editor
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+
+# Build Artifacts
+build/
+dist/
+*.egg-info/
+
+# Test Coverage
+.coverage
+htmlcov/
+.tox/
